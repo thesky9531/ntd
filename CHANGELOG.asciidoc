@@ -1,0 +1,39 @@
+[[release-notes-v1.0.0-beta1]]
+=== NTD version v1.0.0-beta1
+https://github.com/thesky/ntd/compare/1.0.0-beta1[Check v1.1.0-beta1 diff]
+
+==== Breaking changes
+*Affectiong all ntd*
+
+- 1
+- 2
+
+*inputs*
+
+- winpcap/libpcap
+- bpf-filter
+
+*handle*
+
+- Layer 1 LinkLayer
+- Layer 2 NetworkLayer
+- Layer 3 TransferLayer
+- Layer 4 ApplicationLayer
+
+*outputs*
+
+- UDP -> syslog
+- DB -> mysql / postgres
+- TCP -> http / https / Tcp
+- I/O -> local File
+- stdout -> Console window
+
+==== Bugfixes
+
+- null bugfixes
+
+==== Added
+
+- ntd init
+
+==== Deprecated

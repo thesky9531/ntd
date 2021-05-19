@@ -1,0 +1,29 @@
+#=============================== NetworkTrafficDetection inputs ====================================
+
+ntd:
+  inputs:
+    nicName: "\\Device\\NPF_{6BE183BB-A1DC-4555-8BC9-DCE433BE9B89}"
+  test33: 333
+
+#================================ log config ============================================
+#Log.Conf:
+#  LogLevel: "info"
+#  LogDir: "log"
+#  Stdout: "stdout.log"
+#  Errout: "error.log"
+
+
+#============================ NetworkTrafficDetection outputs ==============================
+
+
+
+
+
+
+#=========================== NetworkTrafficDetection handle ===============================
+
+
+
+#===========================Test+++++++==============
+test1: 123
+test2: "234"
