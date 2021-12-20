@@ -6,7 +6,7 @@ The NTD is for collects network flow in internet, It's operation depends on Pcap
 
 If your system in windows, you could need winpcap to run it. And system is Linux, you need libpcap.
 
-The NTD's inspiration is originate from nta in zeehug-Zeesp And Beats for elastic, Thanks. 
+The NTD's inspiration is originate from  Beats for elastic, Thanks. 
 
 
 ## inputs
