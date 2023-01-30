@@ -2,7 +2,7 @@
 
 ntd:
   inputs:
-    nicName: "\\Device\\NPF_{6BE183BB-A1DC-4555-8BC9-DCE433BE9B89}"
+    nicName: "\\Device\\NPF_{B501C375-0003-4B14-B890-61DE8D67CA07}"
   test33: 333
 
 #================================ log config ============================================

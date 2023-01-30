@@ -2,8 +2,8 @@ package entity
 
 import (
 	"fmt"
-	"gitee.com/zeehug/network-traffic-detection/config"
 	"github.com/google/gopacket"
+	"github.com/thesky9531/network-traffic-detection/config"
 	//"github.com/google/gopacket/layers"
 	"github.com/google/gopacket/pcap"
 	"log"

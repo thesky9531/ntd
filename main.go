@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gitee.com/zeehug/network-traffic-detection/cmd"
+	"github.com/thesky9531/network-traffic-detection/cmd"
 	"os"
 )
 

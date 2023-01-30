@@ -1,4 +1,4 @@
-module gitee.com/zeehug/network-traffic-detection
+module github.com/thesky9531/network-traffic-detection
 
 go 1.14
 

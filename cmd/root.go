@@ -2,9 +2,9 @@ package cmd
 
 import (
 	"fmt"
-	"gitee.com/zeehug/network-traffic-detection/config"
-	"gitee.com/zeehug/network-traffic-detection/entity"
 	"github.com/spf13/cobra"
+	"github.com/thesky9531/network-traffic-detection/config"
+	"github.com/thesky9531/network-traffic-detection/entity"
 	"os"
 	"strings"
 )

@@ -24,7 +24,7 @@ var cf *Conf
 func ConfigInit() *Conf {
 	cf = &Conf{}
 
-	yamlFile, err := ioutil.ReadFile("conf.yml")
+	yamlFile, err := ioutil.ReadFile("conf.yaml")
 	if err != nil {
 		log.Println("YamlFile Read Failed", err)
 	}
